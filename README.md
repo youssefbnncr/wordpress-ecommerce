@@ -6,9 +6,9 @@ A modern and responsive e-commerce website built using **WordPress**, **WooComme
 
 ## 📸 Demo Preview
 
-![Homepage Screenshot](screens/1.png)
-![Product Page Screenshot](screens/1-1.png)
-![Product Page Screenshot](screens/1-2.png)
+![Homepage Screenshot](screens/1.PNG)
+![Product Page Screenshot](screens/1-1.PNG)
+![Product Page Screenshot](screens/1-2.PNG)
 
 ---
 
